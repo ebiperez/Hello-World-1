@@ -4,3 +4,5 @@ var myArray=new Array();
             myArray.push(i);
         }
 console.log(myArray)
+
+print("Added by chinedu")
